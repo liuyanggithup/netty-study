@@ -5,7 +5,10 @@
     <groupId>com.githup.liuyanggithup</groupId>
     <artifactId>netty-study</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <packaging>jar</packaging>
+    <modules>
+        <module>netty-all</module>
+    </modules>
+    <packaging>pom</packaging>
 
     <name>pro-netty</name>
     <url>http://maven.apache.org</url>
